@@ -1,8 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Google Gemini Chatbot(Clone)
 
-Currently, two official plugins are available:
+This project is a clone of the Google Gemini chatbot, created using ReactJS and Google Gemini APIs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Key Features
+
+Chat and Ask Questions
+-  Users can chat with the chatbot and ask questions.
+
+Search History
+- Previous search history is saved in the recent chat section for easy access.
+
+Interactive Frontend
+- Responses from the APIs are displayed on the frontend with a typing effect.
+
+UI Experience
+- Provides the same UI experience as the original Google Gemini.
+
+## Technologies Used
+
+- Frontend: ReactJs
+- Apis: Google gemini api
+
+
